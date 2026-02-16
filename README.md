@@ -81,3 +81,29 @@ Indexes created on:
 - order_id
 
 To improve query performance.
+
+---
+
+## 🚀 How to Run
+
+1. Create SQLite database.
+2. Import `Ecommerce_data.csv` as `ecommerce_raw`.
+3. Run `task3.sql`.
+4. View output results in console.
+
+---
+
+## ✅ Outcome
+
+Successfully performed SQL-based data analysis on a structured Ecommerce dataset using relational database concepts.
+
+This task demonstrates:
+
+- Data normalization
+- Analytical SQL queries
+- Aggregation techniques
+- Join operations
+- Query optimization
+- View creation
+
+---
